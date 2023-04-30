@@ -38,6 +38,9 @@ bottom
 
 Manufactured board:
 
+![image](https://user-images.githubusercontent.com/114358863/235375070-df3fe288-e0c4-432b-9458-62fd8a72aaea.png)
+
+
 
 
 
