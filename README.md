@@ -40,8 +40,7 @@ Board:
 TOOLS & Reference:
 ---
 
-[kicad](https://www.kicad.org/).
+[kicad](https://www.kicad.org/)
 
-[JLC PCB](jlcpcb.com).
-
+[JLC PCB](jlcpcb.com)
 
