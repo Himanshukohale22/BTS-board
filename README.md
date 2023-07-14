@@ -1,6 +1,6 @@
 ### DC Motor Driver 
 ---
-This repository contains hardware design of six motor control driver based on MOSFET.
+This repository contains hardware design files of six motor control driver based on MOSFET , manual software code for six motors drive system and.
 
 SPECIFICATIONS:
 ---
