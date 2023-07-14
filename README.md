@@ -32,7 +32,7 @@ Bottom
 ![image](https://user-images.githubusercontent.com/114358863/235374989-e4d6bbb3-82ee-4fce-8dd1-8f2d7eb41781.png)
 
 
-Manufactured board:
+Board:
 
 ![image](https://user-images.githubusercontent.com/114358863/235375070-df3fe288-e0c4-432b-9458-62fd8a72aaea.png)
 
@@ -41,3 +41,6 @@ TOOLS & Reference:
 ---
 
 [kicad](https://www.kicad.org/)
+[JLC PCB](jlcpcb.com)
+
+
