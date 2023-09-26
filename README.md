@@ -2,6 +2,9 @@
 ---
 This repository contains hardware design files of six motor control driver based on MOSFET , manual and software code for six motors drive system.
 
+![Annotation 2023-07-23 224651](https://github.com/Himanshukohale22/BTS-board/assets/114358863/d0c19f3f-9ec7-430b-8515-c4d37a30880f)
+
+
 SPECIFICATIONS:
 ---
 - Compact Board size of 11*15cm.
